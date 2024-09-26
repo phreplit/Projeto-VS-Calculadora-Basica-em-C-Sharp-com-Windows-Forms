@@ -1,1 +1,1 @@
-Necessário a instalação do .NET Framework versão minima v4.0 ou especifica v4.7.2.
+Necessário a instalação do .NET Framework versão minima e especifica v4.7.2 ou superior.
